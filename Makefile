@@ -6,36 +6,26 @@ clean:
 	rm -rf dist
 	rm -rf _static
 	rm -rf jrnl.egg-info
-	rm -rf docs/_build
 	rm -rf _build
 	rm -rf _sources
 	rm -rf _static
+	rm -rf site/
 	rm -f *.html
 
 html:
-	curl https://raw.githubusercontent.com/mateuszkocz/3l/master/3L/3L.less > docs/_themes/jrnl/static/less/3L.less ;\
-	lessc --clean-css docs/_themes/jrnl/static/less/jrnl.less docs/_themes/jrnl/static/css/jrnl.css ;\
-	cd docs ;\
-	make html ;\
-	cd .. ;\
-	open docs/_build/html/index.html ;\
+	poetry run mkdocs serve
 
-# Build GitHub Page from docs
-docs:
-	git checkout gh-pages ; \
-	git checkout master docs ; \
-	git checkout master jrnl ; \
-	curl https://raw.githubusercontent.com/mateuszkocz/3l/master/3L/3L.less > docs/_themes/jrnl/static/less/3L.less ;\
-	lessc --clean-css docs/_themes/jrnl/static/less/jrnl.less docs/_themes/jrnl/static/css/jrnl.css ; \
-	cd docs ; \
-	make html ; \
-	cd .. ; \
-	cp -r docs/_build/html/* . ; \
-	git add -A ; \
-	git commit -m "Updated docs from master" ; \
-	git push -u origin gh-pages ; \
-	git checkout master
+format: ## check style with flake8
+	poetry run black features jrnl
 
-# Upload to pipy
-dist:
-	python setup.py publish
+lint: ## check style with flake8
+	poetry run flake8 jrnl features --ignore E501
+
+test: ## Run behave tests
+	poetry run behave
+
+build:
+	poetry build
+
+install: clean ## install the package to the active Python's site-packages
+	poetry install
