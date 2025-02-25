@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/jrnl-org/jrnl/)
+
+[Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2...HEAD)
+
+**Implemented enhancements:**
+
+- Feature: Calendar view [\#1957](https://github.com/jrnl-org/jrnl/issues/1957)
+
 ## [v4.2](https://pypi.org/project/jrnl/v4.2/) (2024-11-17)
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2-beta...v4.2)
