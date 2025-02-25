@@ -8,6 +8,10 @@
 
 - Feature: Calendar view [\#1957](https://github.com/jrnl-org/jrnl/issues/1957)
 
+**Documentation:**
+
+- Typing animation in landing page is broken [\#1969](https://github.com/jrnl-org/jrnl/issues/1969)
+
 ## [v4.2](https://pypi.org/project/jrnl/v4.2/) (2024-11-17)
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2-beta...v4.2)
