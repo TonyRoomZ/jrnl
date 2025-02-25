@@ -12,6 +12,10 @@
 
 - Typing animation in landing page is broken [\#1969](https://github.com/jrnl-org/jrnl/issues/1969)
 
+**Packaging:**
+
+- Update dependency ruff to v0.9.7 [\#1947](https://github.com/jrnl-org/jrnl/pull/1947) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v4.2](https://pypi.org/project/jrnl/v4.2/) (2024-11-17)
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2-beta...v4.2)
