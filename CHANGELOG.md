@@ -14,7 +14,10 @@
 
 **Packaging:**
 
+- Update dependency cryptography to v44 [\#1962](https://github.com/jrnl-org/jrnl/pull/1962) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency keyring to v25.6.0 [\#1948](https://github.com/jrnl-org/jrnl/pull/1948) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency ruff to v0.9.7 [\#1947](https://github.com/jrnl-org/jrnl/pull/1947) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency rich to v13.9.4 [\#1946](https://github.com/jrnl-org/jrnl/pull/1946) ([renovate[bot]](https://github.com/apps/renovate))
 
 ## [v4.2](https://pypi.org/project/jrnl/v4.2/) (2024-11-17)
 
