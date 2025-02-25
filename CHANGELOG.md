@@ -4,10 +4,6 @@
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2...HEAD)
 
-**Implemented enhancements:**
-
-- Feature: Calendar view [\#1957](https://github.com/jrnl-org/jrnl/issues/1957)
-
 **Documentation:**
 
 - Typing animation in landing page is broken [\#1969](https://github.com/jrnl-org/jrnl/issues/1969)
@@ -16,9 +12,12 @@
 
 - Update dependency pytest to \>=8.1.1 [\#1974](https://github.com/jrnl-org/jrnl/pull/1974) ([wren](https://github.com/wren))
 - Update dependency black to v25 [\#1973](https://github.com/jrnl-org/jrnl/pull/1973) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency tzlocal to v5.3 [\#1972](https://github.com/jrnl-org/jrnl/pull/1972) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency ruamel.yaml to v0.18.10 [\#1967](https://github.com/jrnl-org/jrnl/pull/1967) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency jinja2 to v3.1.5 [\#1966](https://github.com/jrnl-org/jrnl/pull/1966) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency cryptography to v44 [\#1962](https://github.com/jrnl-org/jrnl/pull/1962) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency pytest-bdd to v8.1.0 [\#1952](https://github.com/jrnl-org/jrnl/pull/1952) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency poethepoet to v0.32.2 [\#1951](https://github.com/jrnl-org/jrnl/pull/1951) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency keyring to v25.6.0 [\#1948](https://github.com/jrnl-org/jrnl/pull/1948) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency ruff to v0.9.7 [\#1947](https://github.com/jrnl-org/jrnl/pull/1947) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency rich to v13.9.4 [\#1946](https://github.com/jrnl-org/jrnl/pull/1946) ([renovate[bot]](https://github.com/apps/renovate))
