@@ -6,6 +6,7 @@
 
 **Packaging:**
 
+- Update dependency rich to v14 [\#1989](https://github.com/jrnl-org/jrnl/pull/1989) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency python to 3.13 [\#1988](https://github.com/jrnl-org/jrnl/pull/1988) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency tox to v4.25.0 [\#1986](https://github.com/jrnl-org/jrnl/pull/1986) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency tzlocal to v5.3.1 [\#1984](https://github.com/jrnl-org/jrnl/pull/1984) ([renovate[bot]](https://github.com/apps/renovate))
