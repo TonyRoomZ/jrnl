@@ -7,6 +7,12 @@
 **Packaging:**
 
 - Update dependency python to 3.13 [\#1988](https://github.com/jrnl-org/jrnl/pull/1988) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency tox to v4.25.0 [\#1986](https://github.com/jrnl-org/jrnl/pull/1986) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency tzlocal to v5.3.1 [\#1984](https://github.com/jrnl-org/jrnl/pull/1984) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency jinja2 to v3.1.6 [\#1983](https://github.com/jrnl-org/jrnl/pull/1983) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency poethepoet to v0.33.1 [\#1982](https://github.com/jrnl-org/jrnl/pull/1982) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency pytest to v8.3.5 [\#1981](https://github.com/jrnl-org/jrnl/pull/1981) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency cryptography to v44.0.2 [\#1980](https://github.com/jrnl-org/jrnl/pull/1980) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency ruff to v0.11.3 [\#1978](https://github.com/jrnl-org/jrnl/pull/1978) ([renovate[bot]](https://github.com/apps/renovate))
 
 ## [v4.2.1](https://pypi.org/project/jrnl/v4.2.1/) (2025-02-25)
