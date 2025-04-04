@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/jrnl-org/jrnl/)
+
+[Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2.1...HEAD)
+
+**Packaging:**
+
+- Update dependency python to 3.13 [\#1988](https://github.com/jrnl-org/jrnl/pull/1988) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency ruff to v0.11.3 [\#1978](https://github.com/jrnl-org/jrnl/pull/1978) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v4.2.1](https://pypi.org/project/jrnl/v4.2.1/) (2025-02-25)
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2...v4.2.1)
