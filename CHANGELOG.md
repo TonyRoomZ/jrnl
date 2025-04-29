@@ -6,6 +6,7 @@
 
 **Fixed bugs:**
 
+- poetry warning -  "poetry.dev-dependencies" section is deprecated [\#1975](https://github.com/jrnl-org/jrnl/issues/1975)
 - Homebrew autobump error on jrnl release [\#1961](https://github.com/jrnl-org/jrnl/issues/1961)
 
 **Build:**
