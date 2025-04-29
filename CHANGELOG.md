@@ -4,6 +4,14 @@
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2.1...HEAD)
 
+**Fixed bugs:**
+
+- Homebrew autobump error on jrnl release [\#1961](https://github.com/jrnl-org/jrnl/issues/1961)
+
+**Build:**
+
+- Remove release step to publish to Homebrew [\#1994](https://github.com/jrnl-org/jrnl/pull/1994) ([micahellison](https://github.com/micahellison))
+
 **Packaging:**
 
 - Update dependency rich to v14 [\#1989](https://github.com/jrnl-org/jrnl/pull/1989) ([renovate[bot]](https://github.com/apps/renovate))
